@@ -1,16 +1,59 @@
 ## Hi there 👋
+# I'm Michael Epperley
 
-<!--
-**MEpperley/MEpperley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI, Responsible AI, and Applied Data Science Graduate Researcher
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MS Artificial Intelligence Student
+- MS Software Engineering (Robotics Software)
+- MS Applied Data Science Graduate
+- Research interests:
+  - Responsible AI
+  - Deep Learning
+  - Machine Learning
+  - AI Ethics
+  - Data Analytics
+
+## Technical Skills
+
+### Languages
+- Python
+- R
+- SQL
+
+### Machine Learning
+- Scikit-learn
+- TensorFlow
+- Keras
+- PyTorch
+
+### Data Visualization
+- Power BI
+- Tableau
+- Matplotlib
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+
+## Featured Projects
+
+### Linear Regression Implementation
+Machine learning regression model using Python and Scikit-learn.
+
+### Multilayer Perceptron (MLP)
+Neural network implementation using TensorFlow/Keras.
+
+### CNN Image Classification
+Convolutional neural network for image recognition tasks.
+
+### Recurrent Neural Network (RNN)
+Sequence modeling project using deep learning.
+
+
+
+
+
+

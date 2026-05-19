@@ -21,7 +21,8 @@ AI, Responsible AI, and Applied Data Science Graduate Researcher
 ### Languages
 - Python
 - R
-- SQL
+- java
+- C
 
 ### Machine Learning
 - Scikit-learn

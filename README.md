@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Michael Epperley
 
-AI, Responsible AI, and Applied Data Science Graduate Researcher
+AI, Software Engineering, and Applied Data Science Graduate Researcher
 
 ## About Me
 

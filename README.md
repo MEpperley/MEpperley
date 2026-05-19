@@ -5,9 +5,10 @@ AI, Responsible AI, and Applied Data Science Graduate Researcher
 
 ## About Me
 
-- MS Artificial Intelligence Student
+- MS Artificial Intelligence (Machine Learning)
 - MS Software Engineering (Robotics Software)
-- MS Applied Data Science
+- MS Applied Data Science (Data Ethics)
+- Rice University Visiting Independent Student Researcher & Scholarship Recipient
 - Research interests:
   - Responsible AI
   - Deep Learning

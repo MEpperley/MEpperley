@@ -7,7 +7,7 @@ AI, Responsible AI, and Applied Data Science Graduate Researcher
 
 - MS Artificial Intelligence Student
 - MS Software Engineering (Robotics Software)
-- MS Applied Data Science Graduate
+- MS Applied Data Science
 - Research interests:
   - Responsible AI
   - Deep Learning

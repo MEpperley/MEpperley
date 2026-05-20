@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Michael Epperley
 
-AI, Software Engineering, and Applied Data Science Graduate Researcher
+AI, Robotics Software Engineering, and Applied Data Science Graduate Researcher
 
 ## About Me
 

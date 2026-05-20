@@ -9,12 +9,12 @@ AI, Robotics Software Engineering, and Applied Data Science Graduate Researcher
 - MS Software Engineering (Robotics Software)
 - MS Applied Data Science (Data Ethics)
 - Rice University Visiting Independent Student Researcher & Scholarship Recipient
-- Research interests:
-  - Responsible AI
-  - Deep Learning
-  - Machine Learning
-  - AI Ethics
-  - Data Analytics
+  - Research interests:
+    - Responsible AI
+    - Deep Learning
+    - Machine Learning
+    - AI Ethics
+    - Data Analytics
 
 ## Technical Skills
 

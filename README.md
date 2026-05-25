@@ -44,16 +44,16 @@ AI, Robotics Software Engineering, and Applied Data Science Graduate Researcher
 ### [Predictive AI for Preventative Care: Mapping Health Risk Hotspots](https://github.com/MEpperley/Predictive_AI_for_Preventative_Care)
 This project explores the use of artificial intelligence to identify and visualize health risk hotspots in underserved communities across Harris County, Texas.
 
-### Linear Regression Implementation
+### [Linear Regression Implementation](https://github.com/MEpperley/Linear_Regression_Coding)
 Machine learning regression model using Python and Scikit-learn.
 
-### Multilayer Perceptron (MLP)
+### [Multilayer Perceptron (MLP)](https://github.com/MEpperley/MLP_Implementation_Code)
 Neural network implementation using TensorFlow/Keras.
 
-### CNN Image Classification
+### [CNN Image Classification](MEpperley/CNN_Image_Classification_Code)
 Convolutional neural network for image recognition tasks.
 
-### Recurrent Neural Network (RNN)
+### [Recurrent Neural Network (RNN)](https://github.com/MEpperley/Recurrent_Neural_Networks)
 Sequence modeling project using deep learning.
 
 

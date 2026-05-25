@@ -50,7 +50,7 @@ Machine learning regression model using Python and Scikit-learn.
 ### [Multilayer Perceptron (MLP)](https://github.com/MEpperley/MLP_Implementation_Code)
 Neural network implementation using TensorFlow/Keras.
 
-### [CNN Image Classification](MEpperley/CNN_Image_Classification_Code)
+### [CNN Image Classification](https://github.com/MEpperley/CNN_Image_Classification_Code)
 Convolutional neural network for image recognition tasks.
 
 ### [Recurrent Neural Network (RNN)](https://github.com/MEpperley/Recurrent_Neural_Networks)

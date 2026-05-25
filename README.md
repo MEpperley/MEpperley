@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Michael Epperley
+# I'm Micheal Epperley
 
 AI, Robotics Software Engineering, and Applied Data Science Graduate Researcher
 

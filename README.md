@@ -5,9 +5,9 @@ AI, Robotics Software Engineering, and Applied Data Science Graduate Researcher
 
 ## About Me
 
-- MS Artificial Intelligence (Machine Learning) 2025-2027
-- MS Software Engineering (Robotics Software) 2026-2027
-- MS Applied Data Science (Data Ethics) 2023-2025
+- MS Artificial Intelligence (Machine Learning) 2025-2027, HCU
+- MS Software Engineering (Robotics Software) 2026-2027, UHCL
+- MS Applied Data Science (Data Ethics) 2023-2025, UST
 - Rice University Visiting Independent Student Researcher & Scholarship Recipient 2025-
   - Research interests:
     - Responsible AI

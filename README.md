@@ -41,6 +41,9 @@ AI, Robotics Software Engineering, and Applied Data Science Graduate Researcher
 
 ## Featured Projects
 
+### Predictive AI for Preventative Care: Mapping Health Risk Hotspots
+This project explores the use of artificial intelligence to identify and visualize health risk hotspots in underserved communities across Harris County, Texas.
+
 ### Linear Regression Implementation
 Machine learning regression model using Python and Scikit-learn.
 
